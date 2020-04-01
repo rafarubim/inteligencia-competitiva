@@ -1,0 +1,5 @@
+ 	http://feeds.reuters.com/Reuters/worldNews 	 
+http://revistaepoca.globo.com/Revista/Epoca/Rss/0,,DMI0-15210,00.xml
+http://feeds.bbci.co.uk/news/world/rss.xml
+ 	http://feeds.bbci.co.uk/news/technology/rss.xml
+http://feeds.bbci.co.uk/news/business/rss.xml

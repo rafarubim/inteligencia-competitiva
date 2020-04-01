@@ -1,0 +1,11 @@
+F:\Rafael\Projetos\VS2017\C#\WebCrawler\WebCrawler\bin\Release\WebCrawler.exe.config
+F:\Rafael\Projetos\VS2017\C#\WebCrawler\WebCrawler\bin\Release\WebCrawler.exe
+F:\Rafael\Projetos\VS2017\C#\WebCrawler\WebCrawler\bin\Release\WebCrawler.pdb
+F:\Rafael\Projetos\VS2017\C#\WebCrawler\WebCrawler\bin\Release\HtmlAgilityPack.dll
+F:\Rafael\Projetos\VS2017\C#\WebCrawler\WebCrawler\bin\Release\HtmlAgilityPack.pdb
+F:\Rafael\Projetos\VS2017\C#\WebCrawler\WebCrawler\bin\Release\HtmlAgilityPack.xml
+F:\Rafael\Projetos\VS2017\C#\WebCrawler\WebCrawler\obj\Release\WebCrawler.csprojAssemblyReference.cache
+F:\Rafael\Projetos\VS2017\C#\WebCrawler\WebCrawler\obj\Release\WebCrawler.csproj.CoreCompileInputs.cache
+F:\Rafael\Projetos\VS2017\C#\WebCrawler\WebCrawler\obj\Release\WebCrawler.csproj.CopyComplete
+F:\Rafael\Projetos\VS2017\C#\WebCrawler\WebCrawler\obj\Release\WebCrawler.exe
+F:\Rafael\Projetos\VS2017\C#\WebCrawler\WebCrawler\obj\Release\WebCrawler.pdb
