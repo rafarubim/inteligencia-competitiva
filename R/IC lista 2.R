@@ -16,10 +16,10 @@ library(stringr)
 library(cluster)
 library(fpc)
 
-consumerKey = "9Ya0AVLWI68XzGMs6cdfZCGyR"
-consumerSecret = "lzopj6M0Ekyan0i4ObPU3epLvZzSxUGLl0bdvCjL1jD6b4GDdY"
-accessToken = "1067072742510465024-jLdZmxOMDRX4dk7y9dJsAvaXkUFkg0"
-accessSecret = "RW69gALizVLUfFZSxaDwGUk1tucHnKyjm1cWVoK83rZtq" 
+consumerKey = ""
+consumerSecret = ""
+accessToken = ""
+accessSecret = "" 
 
 setup_twitter_oauth(consumerKey, consumerSecret, accessToken, accessSecret)
 
